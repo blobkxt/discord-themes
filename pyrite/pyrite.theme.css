@@ -33,7 +33,7 @@
 /* https://leafyluigi.github.io/discord-themes/pyrite/var-examples.html */
 :root {
   /* URL must be HTTPS and a direct link to the image. You can have a custom background image for the User Popout and the User Modals. */
-  --background-image: url('https://leafyluigi.github.io/images/pexels-josh-sorenson-116359.png');
+  --background-image: url('https://media.discordapp.net/attachments/1117156803390746795/1121114568043806811/Screenshot_2023-06-21_172848.png?width=1440&height=609');
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   /* Home icon is for the little button in the top left. */
